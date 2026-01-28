@@ -7,10 +7,12 @@
 - Access method: Identity Center / Admin role
 
 ## Baseline Controls
-- CloudTrail: pending
+- CloudTrail: enabled (management events, all regions)
 - Budget alert: pending
 - Tag convention: pending
 
 ## Notes
 - This account is reserved strictly for AWS SAA exam-aligned labs.
 - No real-world architecture patterns beyond exam scope will be introduced.
+- CloudTrail enabled to capture control-plane activity for audit and troubleshooting.
+
