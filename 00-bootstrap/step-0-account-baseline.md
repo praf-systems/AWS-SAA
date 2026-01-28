@@ -1,0 +1,16 @@
+# Step 0 — Account Baseline
+
+## Account
+- Name: sandbox-saa
+- Account ID: <908835049614>
+- Region: us-east-1 (N. Virginia)
+- Access method: Identity Center / Admin role
+
+## Baseline Controls
+- CloudTrail: pending
+- Budget alert: pending
+- Tag convention: pending
+
+## Notes
+- This account is reserved strictly for AWS SAA exam-aligned labs.
+- No real-world architecture patterns beyond exam scope will be introduced.
