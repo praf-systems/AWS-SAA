@@ -8,7 +8,7 @@
 
 ## Baseline Controls
 - CloudTrail: enabled (management events, all regions)
-- Budget alert: pending
+- Budget alert: enabled ($10 monthly, 50% & 80% actual alerts)
 - Tag convention: pending
 
 ## Notes
